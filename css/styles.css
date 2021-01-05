@@ -1,0 +1,226 @@
+body{
+  margin: 0;
+  background-color: #eff8ff;
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+.kwocproject
+{
+  font-size: 3.5rem;
+}
+
+.top-cloud1
+{
+  margin: 100px 30px 100px;
+}
+.top-cloud2
+{
+  position: absolute;
+  right: 900px;
+  top: 200px;
+}
+.top-profilepic
+{ width: 300px;
+  height:450px;
+  margin: 50px auto 50px auto;
+  border-radius: 150px;
+}
+
+
+
+.top-container
+{
+  background-color: #6155a6;
+  position:relative;
+  padding-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+
+
+
+
+}
+.middle-container
+{
+  width:75%;
+
+background-color: #6155a6;
+color: white;
+padding: 15px;
+}
+
+.about-container
+{
+  width:75%;
+  margin: 100px auto 100px auto;
+  background-color: #86d8dc;
+  border-radius: 100px;
+  padding: 25px;
+
+}
+.middle-profilepic
+{
+  width: 75px;
+  height : 75px;
+}
+.prisonerimage
+{
+  width: 200px;
+  height :200px;
+  margin-right: 10px;
+    float: left;
+    border-radius: 50px;
+    border-color: black;
+
+}
+.doughnutimage
+{
+  width: 200px;
+  height :250px;
+  margin-right: 10px;
+  margin-left: 10px;
+    float: right;
+    border-radius: 50px;
+    border-color: black;
+
+}
+.numberspic
+{
+  width: 200px;
+  height :200px;
+  margin-right: 10px;
+    float: left;
+    border-radius: 50px;
+    border-color: black;
+
+}
+.commitpic
+{
+  width:50%;
+  margin: 50px auto 50px auto;
+
+}
+.middle-container
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+}
+.bottom-container
+{
+  padding-bottom: 40px;
+}
+.pullrequests
+{
+
+  line-height: 1.5;
+  font-weight: bold;
+}
+ .para{
+   line-height: 2.5;
+ }
+ .mythoughts
+ {
+   font-weight: bold;
+ }
+h1
+{
+  margin-top: 0;
+  text-decoration: underline;
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5rem;
+  margin-bottom: 15px;
+
+  color: #0f3057;
+  line-height: 2;
+
+}
+.intro{
+  font-size: 1.2rem;
+  color: white;
+}
+.emoji
+{
+  text-decoration: none;
+}
+h2
+{ color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+  font-size: 2rem;
+
+}
+.inside{
+  border: dotted #eff8ff 6px;
+  border-bottom : none;
+  width: 4%;
+}
+.imagepic
+{
+  border-radius: 25px;
+}
+
+a:hover {
+  background-color: #eff8ff;
+
+
+}
+.inside2
+{
+  border: dotted #6155a6 6px;
+  border-bottom : none;
+  width: 4%;
+}
+.finalthanks
+{
+  font-size: 4rem;
+  color: red;
+  font-weight: bold;
+  width: 30%;
+  margin: 100px auto 100px auto;
+  background-color: #fbbedf;
+  border-radius: 100px;
+
+}
+.footer-link{
+  font-size: 25px;
+  margin: 10px;
+
+
+}
+.btn {
+  background: #30f0cd;
+  background-image: -webkit-linear-gradient(top, #30f0cd, #20ab98);
+  background-image: -moz-linear-gradient(top, #30f0cd, #20ab98);
+  background-image: -ms-linear-gradient(top, #30f0cd, #20ab98);
+  background-image: -o-linear-gradient(top, #30f0cd, #20ab98);
+  background-image: linear-gradient(to bottom, #30f0cd, #20ab98);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 0px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #349ee0;
+  background-image: -webkit-linear-gradient(top, #349ee0, #26628a);
+  background-image: -moz-linear-gradient(top, #349ee0, #26628a);
+  background-image: -ms-linear-gradient(top, #349ee0, #26628a);
+  background-image: -o-linear-gradient(top, #349ee0, #26628a);
+  background-image: linear-gradient(to bottom, #349ee0, #26628a);
+  text-decoration: none;
+}
+
+
+a{
+  text-decoration: none;
+  color: #11999E;
+}
